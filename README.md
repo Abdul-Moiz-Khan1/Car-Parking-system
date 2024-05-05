@@ -7,4 +7,4 @@ The info class manages user information, including setting and displaying the en
 The program uses a loop to allow multiple entries. After each entry, the user is prompted to enter another entry or view all the entries. 
 The entered data is stored in the final array and also written to a file named "Enteries.csv" using file handling. 
 Finally, the program displays all the entered information from the final array, including the entry number, first name, last name, CNIC, hours, car number, slot number, entry time, and bill. It also outputs a thank you message for using the Skyline parking services. 
-In summary, the program provides a parking management system where users can enter their information, assign parking slots, calculate parking bills, store the data, and display the entered information along with the total bill.
+In summary, the program provides a parking management system where users can enter their information, assign parking slots, calculate parking bills, store the data, and display the entered information along with the total bill...
